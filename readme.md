@@ -1,1 +1,0 @@
-# Forkify JavaScript app
